@@ -1,11 +1,11 @@
-# 🔐 SecureCLI - Python CLI App with Optional 2FA (TOTP & Email)
+# 🔐 SecureCLI - Python CLI with 2FA (TOTP & Email)
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 ![Security](https://img.shields.io/badge/Security-2FA%20Enabled-important)
 ![Supabase](https://img.shields.io/badge/Backend-Supabase-blue)
 
-SecureCLI is a secure command-line interface (CLI) app for user registration, login, and Two-Factor Authentication (2FA) using Google Authenticator, Microsoft Authenticator, or email OTP. This was built as part of my **cybersecurity portfolio** to demonstrate secure authentication practices and TOTP-based 2FA.
+SecureCLI is a secure command-line interface (CLI) for user registration, login, and Two-Factor Authentication (2FA) using Google Authenticator, Microsoft Authenticator, or email OTP. This was built as part of my **cybersecurity portfolio** to demonstrate secure authentication practices and TOTP-based 2FA.
 
 ---
 
