@@ -16,7 +16,7 @@ SecureCLI is a secure command-line interface (CLI) app for user registration, lo
   - Email validation with masking
   - CLI-friendly and color-coded UI
 
-- 🔐 **Two-Factor Authentication (Optional)**
+- 🔐 **Two-Factor Authentication**
   - Choose between:
     - 📱 Google Authenticator
     - 🔐 Microsoft Authenticator
@@ -26,6 +26,7 @@ SecureCLI is a secure command-line interface (CLI) app for user registration, lo
 
 - 🛠️ **User Account Management**
   - Change password and email
+  - Full user settings
   - Password confirmation required for sensitive actions
   - Email masking for CLI output
 
