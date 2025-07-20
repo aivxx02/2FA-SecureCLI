@@ -60,3 +60,40 @@ SecureCLI is a secure command-line interface (CLI) app for user registration, lo
    ```bash
    git clone https://github.com/aivxx02/securecli.git
    cd securecli
+
+2. **Install Dependencies**
+   ```bash
+   pip install -r requirements.txt
+   
+3. Configure `.env` File
+   Create a .env file in the project root:
+   ```bash
+   SUPABASE_URL=https://your-supabase-url.supabase.co
+   SUPABASE_KEY=your-supabase-anon-key
+   EMAIL_ADDRESS=your@gmail.com
+   EMAIL_PASSWORD=your_app_password
+   
+4. Run the App
+   ```bash
+   python securecli.py
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
