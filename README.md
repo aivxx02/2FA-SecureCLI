@@ -5,7 +5,7 @@
 ![Security](https://img.shields.io/badge/Security-2FA%20Enabled-important)
 ![Supabase](https://img.shields.io/badge/Backend-Supabase-blue)
 
-SecureCLI is a secure command-line interface (CLI) app for user registration, login, and optional Two-Factor Authentication (2FA) using Google Authenticator, Microsoft Authenticator, or email OTP. This was built as part of my **cybersecurity portfolio** to demonstrate secure authentication practices and TOTP-based 2FA.
+SecureCLI is a secure command-line interface (CLI) app for user registration, login, and Two-Factor Authentication (2FA) using Google Authenticator, Microsoft Authenticator, or email OTP. This was built as part of my **cybersecurity portfolio** to demonstrate secure authentication practices and TOTP-based 2FA.
 
 ---
 
