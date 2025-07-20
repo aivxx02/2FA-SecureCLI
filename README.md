@@ -1,1 +1,62 @@
-# 2FA-SecureCLI
+# 🔐 SecureCLI - Python CLI App with Optional 2FA (TOTP & Email)
+
+![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)
+![License](https://img.shields.io/badge/license-MIT-green.svg)
+![Security](https://img.shields.io/badge/Security-2FA%20Enabled-important)
+![Supabase](https://img.shields.io/badge/Backend-Supabase-blue)
+
+SecureCLI is a secure command-line interface (CLI) app for user registration, login, and optional Two-Factor Authentication (2FA) using Google Authenticator, Microsoft Authenticator, or email OTP. This was built as part of my **cybersecurity portfolio** to demonstrate secure authentication practices and TOTP-based 2FA.
+
+---
+
+## 📌 Features
+
+- 📝 **Secure Registration & Login**
+  - Passwords hashed with `bcrypt`
+  - Email validation with masking
+  - CLI-friendly and color-coded UI
+
+- 🔐 **Two-Factor Authentication (Optional)**
+  - Choose between:
+    - 📱 Google Authenticator
+    - 🔐 Microsoft Authenticator
+    - ✉️ Email-based OTP
+  - TOTP secret generation and QR code setup
+  - Easily enable/disable 2FA anytime
+
+- 🛠️ **User Account Management**
+  - Change password and email
+  - Password confirmation required for sensitive actions
+  - Email masking for CLI output
+
+- ☁️ **Supabase Integration**
+  - Cloud-based storage of user accounts
+  - PostgreSQL-backed and easy to set up
+
+---
+
+## ⚙️ Tech Stack
+
+| Component        | Technology              |
+|------------------|-------------------------|
+| Language         | Python 3.10+            |
+| Auth & 2FA       | `pyotp`, `qrcode`, `smtplib` |
+| Password Hashing | `bcrypt`                |
+| Backend          | [Supabase](https://supabase.com) |
+| Email            | `EmailMessage`, Gmail SMTP |
+| Config           | `dotenv` for `.env` secrets |
+
+---
+
+## 📷 Demo Screenshots
+
+> _You can add screenshots here using `![Alt text](screenshot.png)` syntax after capturing CLI flows._
+
+---
+
+## 🚀 Getting Started
+
+1. **Clone the Repository**
+   ```bash
+   git clone https://github.com/aivxx02/securecli.git
+   cd securecli
