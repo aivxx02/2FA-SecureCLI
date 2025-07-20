@@ -1,0 +1,5 @@
+bcrypt
+pyotp
+qrcode
+python-dotenv
+supabase
