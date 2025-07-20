@@ -78,22 +78,3 @@ SecureCLI is a secure command-line interface (CLI) app for user registration, lo
    python securecli.py
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
