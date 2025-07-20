@@ -52,7 +52,14 @@ SecureCLI is a secure command-line interface (CLI) for user registration, login,
 ## 📷 Demo Screenshots
 
 > - [Click here to View More Screenshots](screenshots/) <br />
-<img src="screenshots/1 landing-page.png" alt="homepage" width="150"/>
+<img src="screenshots/1 landing-page.png" alt="landingpage" width="300"/>
+<img src="screenshots/2 register" alt="register" width="300"/>
+<img src="screenshots/3 login" alt="login" width="300"/>
+<img src="screenshots/4 user-homepage" alt="user-homepage" width="300"/>
+<img src="screenshots/5 enable-2fa" alt="enable-2fa" width="300"/>
+<img src="screenshots/6 disable-2fa" alt="disable-2fa" width="300"/>
+<img src="screenshots/7 user-setting" alt="user-setting" width="300"/>
+<img src="screenshots/1 landing-page.png" alt="landing-page" width="300"/>
 
 ---
 
